@@ -188,26 +188,28 @@
     * [React Native](https://facebook.github.io/react-native/)
     * [Cordova](https://cordova.apache.org/)/[Phonegap](https://phonegap.com/)
     * [Ionic] (https://ionic.io/framework)
-    - recommended [React Native](https://facebook.github.io/react-native/)
+        - recommended [React Native](https://facebook.github.io/react-native/)
 18. Desktop (good to know)
     * [Proton Native](https://proton-native.js.org/)
     * [Electron](https://electronjs.org/)
     * [React Native Windows](https://github.com/Microsoft/react-native-windows)
-    - recommended [Electron](https://electronjs.org/)
+        - recommended [Electron](https://electronjs.org/)
 <!-- 19. Virtual Reality
     * [React 360](https://facebook.github.io/react-360/) -->
 19. Alternative for reactjs
-    - good to know about ohter js frameworks 
     * [Angular](https://angular.io/start)
     * [Vuejs](https://vuejs.org/)
+        - good to know about ohter js frameworks 
 
 20. Tasks
     * Accordion ex: [sample](https://react-projects-4-accordion.netlify.app/) 
-    - using functinal and class components
+        - using functinal and class components
     * [Color generator](https://react-projects-9-color-generator.netlify.app/)
-    - using react hooks
+        - using react hooks
     * Create menu for restraunt ex: [sample](https://react-projects-5-menu.netlify.app/): take sample json data, create search, add menu item in the modal, update the menu item, side menu, navbar footer, pagination on page scroll(like instagram, linkedin etc.)
-    - React, react router, hooks, material ui (without form helper)
+        - React, react router, hooks, material ui (without form helper)
+
+> Try to host above tasks in the netlify
 
 <!-- ## Wrap Up
 
